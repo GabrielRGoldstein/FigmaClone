@@ -22,7 +22,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-A minimalistic Figma clone to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using fabric.js. Inspired by JS Mastery's project.
+A minimalistic Figma clone adding real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using fabric.js. Inspired by JS Mastery's project.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
